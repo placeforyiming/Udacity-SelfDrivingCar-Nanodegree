@@ -4,17 +4,15 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/yimingzhao/Udacity/Udacity-Self-drivingCar-Nanodegree/project6_ExtendedKalmanFilter/src/FusionEKF.cpp" "/Users/yimingzhao/Udacity/Udacity-Self-drivingCar-Nanodegree/project6_ExtendedKalmanFilter/build/CMakeFiles/ExtendedKF.dir/src/FusionEKF.cpp.o"
-  "/Users/yimingzhao/Udacity/Udacity-Self-drivingCar-Nanodegree/project6_ExtendedKalmanFilter/src/kalman_filter.cpp" "/Users/yimingzhao/Udacity/Udacity-Self-drivingCar-Nanodegree/project6_ExtendedKalmanFilter/build/CMakeFiles/ExtendedKF.dir/src/kalman_filter.cpp.o"
-  "/Users/yimingzhao/Udacity/Udacity-Self-drivingCar-Nanodegree/project6_ExtendedKalmanFilter/src/main.cpp" "/Users/yimingzhao/Udacity/Udacity-Self-drivingCar-Nanodegree/project6_ExtendedKalmanFilter/build/CMakeFiles/ExtendedKF.dir/src/main.cpp.o"
-  "/Users/yimingzhao/Udacity/Udacity-Self-drivingCar-Nanodegree/project6_ExtendedKalmanFilter/src/tools.cpp" "/Users/yimingzhao/Udacity/Udacity-Self-drivingCar-Nanodegree/project6_ExtendedKalmanFilter/build/CMakeFiles/ExtendedKF.dir/src/tools.cpp.o"
+  "/home/yiming/Udacity/Udacity-SelfDrivingCar-Nanodegree/project6_ExtendedKalmanFilter/src/FusionEKF.cpp" "/home/yiming/Udacity/Udacity-SelfDrivingCar-Nanodegree/project6_ExtendedKalmanFilter/build/CMakeFiles/ExtendedKF.dir/src/FusionEKF.cpp.o"
+  "/home/yiming/Udacity/Udacity-SelfDrivingCar-Nanodegree/project6_ExtendedKalmanFilter/src/kalman_filter.cpp" "/home/yiming/Udacity/Udacity-SelfDrivingCar-Nanodegree/project6_ExtendedKalmanFilter/build/CMakeFiles/ExtendedKF.dir/src/kalman_filter.cpp.o"
+  "/home/yiming/Udacity/Udacity-SelfDrivingCar-Nanodegree/project6_ExtendedKalmanFilter/src/main.cpp" "/home/yiming/Udacity/Udacity-SelfDrivingCar-Nanodegree/project6_ExtendedKalmanFilter/build/CMakeFiles/ExtendedKF.dir/src/main.cpp.o"
+  "/home/yiming/Udacity/Udacity-SelfDrivingCar-Nanodegree/project6_ExtendedKalmanFilter/src/tools.cpp" "/home/yiming/Udacity/Udacity-SelfDrivingCar-Nanodegree/project6_ExtendedKalmanFilter/build/CMakeFiles/ExtendedKF.dir/src/tools.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "Clang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/usr/local/include"
-  "/usr/local/opt/openssl/include"
   )
 
 # Targets to which this target links.
