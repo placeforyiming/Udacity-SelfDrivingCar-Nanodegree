@@ -7,7 +7,7 @@ This is a brief introduction to those projects I did for Udacity's Self-driving 
 #### [P1 - Finding Lane Lines](project1_FindLaneLines)
  - **Summary:** Find highway lane lines on a video stream with OpenCV. 
  - **Keywords:** Computer Vision
- 
+<img src="https://github.com/placeforyiming/Udacity-SelfDrivingCar-Nanodegree/blob/master/IntroGifforALL/project1.gif" width="40" height="40" />
 ![Alt Text](https://github.com/placeforyiming/Udacity-SelfDrivingCar-Nanodegree/blob/master/IntroGifforALL/project1.gif)
 
 #### [P2 - Traffic Sign Classification](project2_TrafficSignClassification)
