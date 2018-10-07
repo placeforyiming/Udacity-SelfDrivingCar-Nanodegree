@@ -53,13 +53,13 @@ This is a brief introduction to those projects I did for Udacity's Self-driving 
 <img src="https://github.com/placeforyiming/Udacity-SelfDrivingCar-Nanodegree/blob/master/IntroGifforALL/project8.gif" width="300" height="200" />
 
 #### [P9 - PID Control for Vehicle](project_09_PID_Control)
- - **Summary:** Implemented a PID controller to help the car drive on simulating road smoothly.
+ - **Summary:** Implemented a PID controller to help the car drive on simulation road smoothly.
  -  **Keywords:** PID control
 
 <img src="https://github.com/placeforyiming/Udacity-SelfDrivingCar-Nanodegree/blob/master/IntroGifforALL/project9.gif" width="300" height="200" />
 
 #### [P10 - Model Predictive Control for Vehicle](project_10_MPC_Control)
- - **Summary:** Implemented a Model Predictive Controller to help the car drive on simulating road smoothly with a high speed.
+ - **Summary:** Implemented a Model Predictive Controller to help the car drive on simulation road smoothly with a high speed.
  -  **Keywords:** Model Predictive Control, Optimization with C++
 
 <img src="https://github.com/placeforyiming/Udacity-SelfDrivingCar-Nanodegree/blob/master/IntroGifforALL/project10.gif" width="300" height="200" />
